@@ -5,8 +5,8 @@ export const NavData = [
         cName:'nav-Item'
     },
     {
-        title: 'Product',
-        path: './Product',
+        title: 'PRODUCT',
+        path: '/Product',
         cName:'nav-Item'
     },
     {

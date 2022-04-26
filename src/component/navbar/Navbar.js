@@ -1,15 +1,13 @@
 import React from 'react'
 import {Link} from 'react-router-dom';
 import {NavData} from './NavData';
+import './nav.css'
 
 export const Navbar = () => {
     console.log(NavData)
   return (
     <div className='navContainer'>
         <div className='nav'>
-            <div className='navTitle'>
-                <h2>Restaurant99</h2>
-            </div>
             <nav className='navLinks'>
                 <ul className='nav-menu'>
                     {
@@ -26,7 +24,9 @@ export const Navbar = () => {
                     }
                 </ul>
             </nav>
-            <div></div>
+        </div>
+        <div className='navTitle'>
+                <h2 className='brandLogo'>Restaurant99</h2>
         </div>
     </div>
   )
