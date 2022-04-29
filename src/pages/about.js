@@ -14,20 +14,20 @@ function About() {
             <div class="row">
                 <div class="column">
                     <div class="card">
-                        <img src={faisal} alt="Mike" height={300} style={{width:"100%"}} />
+                        <img src={faisal} alt="Mike" height={350} style={{width:"100%"}} />
                         <div class="container1">
                             <h2>Ola</h2>
                             <p class="title">Visual Provider</p>
                             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                             <div><p>mustaphamarizuk98</p><p>@gmail.com</p></div>
-                            <p><button class="button">Contact</button></p>
+                            <p><button class="button" style={{}}>Contact</button></p>
                         </div>
                     </div>
                 </div>
 
                 <div class="column">
                     <div class="card">
-                        <img src={faisal} alt="Mike" height={300} style={{width:"100%"}} />
+                        <img src={faisal} alt="Mike" height={350} style={{width:"100%"}} />
                         <div class="container1">
                             <h2>TH</h2>
                             <p class="title">Senior Developer</p>
@@ -40,7 +40,7 @@ function About() {
 
                 <div class="column">
                     <div class="card">
-                        <img src={faisal} alt="Mike" height={300} style={{width:"100%"}} />
+                        <img src={faisal} alt="Mike" height={350} style={{width:"100%"}} />
                         <div class="container1">
                             <h2>Marzuq Marzuq</h2>
                             <p class="title">Developer</p>
@@ -53,7 +53,7 @@ function About() {
 
                 <div class="column">
                     <div class="card">
-                        <img src={faisal} alt="Mike" height={300} style={{width:"100%"}} />
+                        <img src={faisal} alt="Mike" height={350} style={{width:"100%"}} />
                         <div class="container1">
                             <h2>Marzuq</h2>
                             <p class="title">Developer</p>
@@ -66,7 +66,7 @@ function About() {
 
                 <div class="column">
                     <div class="card">
-                        <img src={faisal} alt="Mike" height={300} style={{width:"100%"}} />
+                        <img src={faisal} alt="Mike" height={350} style={{width:"100%"}} />
                         <div class="container1">
                             <h2>Marzuq</h2>
                             <p class="title">Developer</p>
